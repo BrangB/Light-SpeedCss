@@ -133,6 +133,21 @@ input,
 textarea {
   -webkit-tap-highlight-color: transparent;
 }
+@media (min-width: 576px) {
+    :root {
+      --breakpoint: sm;
+    }
+  }
+@media (min-width: 768px) {
+    :root {
+      --breakpoint: md;
+    }
+  }
+@media (min-width: 992px) {
+    :root {
+      --breakpoint: lg;
+    }
+  }
 /* Margin */
 .m-1 {
     margin: 0.25rem;
