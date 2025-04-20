@@ -1,3 +1,7 @@
+@import './base/_colors.css';
 @import './base/_reset.css';
-@import './components/_buttons.css';
 @import './utilities/_spacing.css';
+@import './utilities/_text.css';
+@import './utilities/_helper.css';
+@import './components/_buttons.css';
+@import './components/_loading.css';

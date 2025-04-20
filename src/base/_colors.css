@@ -1,0 +1,22 @@
+:root {
+    --primary: #0d6efd;
+    --primary-hover: #0b5ed7;
+    --primary-border-hover: #0a58ca;
+  
+    --secondary: #6c757d;
+    --secondary-hover: #5c636a;
+    --secondary-border-hover: #545b62;
+  
+    --success: #198754;
+    --success-hover: #157347;
+    --success-border-hover: #146c43;
+  
+    --danger: #dc3545;
+    --danger-hover: #bb2d3b;
+    --danger-border-hover: #b02a37;
+  
+    --light: #f8f9fa;
+    --dark: #212529;
+    --gray-200: #e2e6ea;
+  }
+  
