@@ -2,11 +2,19 @@
   "name": "light-speedcss",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/lightspeed.css",
+  "style": "dist/lightspeed.css",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+      "build": "postcss src/main.css -o dist/lightspeed.css"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "files": ["dist"],
+  "keywords": ["css", "framework", "utilities"],
+  "author": "Brang Tsawm Aung",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "postcss-cli": "^11.0.1"
+  }
 }
