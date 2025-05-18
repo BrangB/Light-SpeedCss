@@ -3,6 +3,6 @@
 @import './base/_media.css';
 @import './utilities/_spacing.css';
 @import './utilities/_text.css';
-@import './utilities/_helper.css';
+@import './utilities/_bg.css';
 @import './components/_buttons.css';
 @import './components/_loading.css';
