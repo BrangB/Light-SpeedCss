@@ -4,5 +4,9 @@
 @import './utilities/_spacing.css';
 @import './utilities/_text.css';
 @import './utilities/_bg.css';
+@import './utilities/_flex.css';
+@import './utilities/_zIndexAndDisplay.css';
+@import './utilities/_borders.css';
+@import './utilities/_shadow.css';
 @import './components/_buttons.css';
 @import './components/_loading.css';

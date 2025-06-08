@@ -1,11 +1,10 @@
 {
   "name": "light-speedcss",
   "version": "5.1.0",
-  "description": "",
+  "description": "A lightweight utility-first CSS framework inspired by TailwindCSS, designed for high performance and fast development.",
   "main": "dist/lightspeed.css",
   "style": "dist/lightspeed.css",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "build": "postcss src/main.css -o dist/lightspeed.css"
   },
   "files": [
@@ -14,10 +13,21 @@
   "keywords": [
     "css",
     "framework",
-    "utilities"
+    "utilities",
+    "tailwind",
+    "lightweight",
+    "postcss"
   ],
   "author": "Brang Tsawm Aung",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BrangB/Light-SpeedCss.git"
+  },
+  "bugs": {
+    "url": "http://github.com/BrangB/Light-SpeedCss/issues"
+  },
+  "homepage": "https://github.com/BrangB/Light-SpeedCss#readme",
   "devDependencies": {
     "autoprefixer": "^10.4.21",
     "postcss": "^8.5.3",
