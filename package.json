@@ -1,6 +1,6 @@
 {
   "name": "light-speedcss",
-  "version": "5.1.1",
+  "version": "5.1.2",
   "description": "A lightweight utility-first CSS framework inspired by TailwindCSS, designed for high performance and fast development.",
   "main": "dist/lightspeed.css",
   "style": "dist/lightspeed.css",
