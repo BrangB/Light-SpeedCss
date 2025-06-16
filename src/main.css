@@ -8,5 +8,7 @@
 @import './utilities/_zIndexAndDisplay.css';
 @import './utilities/_borders.css';
 @import './utilities/_shadow.css';
+@import './utilities/_width.css';
 @import './components/_buttons.css';
 @import './components/_loading.css';
+
