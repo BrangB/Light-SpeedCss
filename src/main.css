@@ -9,6 +9,9 @@
 @import './utilities/_borders.css';
 @import './utilities/_shadow.css';
 @import './utilities/_width.css';
+@import './utilities/_animation.css';
+@import './utilities/_transition.css';
+@import './utilities/_position.css';
 @import './components/_buttons.css';
 @import './components/_loading.css';
 

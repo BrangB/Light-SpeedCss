@@ -615,6 +615,14 @@
   color: var(--color-rose-800);
 }
 
+.text-white {
+  color: #ffffff;
+}
+
+.text-black {
+  color: #000000;
+}
+
 
 /* Font Sizes */
 .text-xs { font-size: 0.75rem; }
